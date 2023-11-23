@@ -48,6 +48,7 @@
       </div>
     </div>
   </div>
+  <!-- 109025035 -->
   <div class="introduce-a">
     <div class="introduce-img-a"></div>
     <div class="introduce-text-a">
@@ -96,7 +97,7 @@
 import { ref } from "vue";
 import { Swiper, SwiperSlide } from "swiper/vue";
 // Import Swiper styles
-import "swiper/css";
+import "swiper/css"; //109025035
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 // import required modules
@@ -147,7 +148,7 @@ export default {
   background-image: url("https://images.unsplash.com/photo-1630672607721-48e0a0187a92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1202&q=80");
   background-position: center;
   background-size: cover;
-}
+}/*109025035*/
 .about-img {
   width: 100%;
   margin: 0 auto;
@@ -198,7 +199,7 @@ export default {
 .introduce-a {
   max-width: 70%;
   margin: 150px auto;
-}
+}/*109025035*/
 
 .introduce-img-a {
   width: 100%;
@@ -244,7 +245,7 @@ export default {
   width: 80%;
   margin: 0px auto;
 }
-
+/*109025035*/
 .introduce-ti-b {
   font-size: 30px;
   text-align: center;
@@ -308,7 +309,7 @@ a {
   top: 110px;
   line-height: 24px;
 }
-
+/*109025035*/
 .footer_logo {
   margin: 0px auto;
   margin-bottom: 40px;
@@ -346,7 +347,7 @@ a {
     justify-content: space-between;
     align-items: center;
   }
-
+  /*109025035*/
   .introduce-img-a {
     width: 45%;
     height: 600px;
